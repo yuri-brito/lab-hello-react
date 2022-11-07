@@ -1,0 +1,44 @@
+.headerHead{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:1%;
+
+}
+.imageHead{
+    margin-top: 2%;
+    margin-inline: 8%;
+}
+.Head{
+    background-color: rgba(31, 37, 53, 255);
+}
+.articleHead{
+    text-align: left;
+    color:white;
+    padding-left:8%;
+    margin-top:8%;
+    padding-bottom: 7%;
+}
+.h1Article{
+    font-size: 300%;
+    width: 40%;
+    line-height: 90%;
+    margin-bottom: 2%;
+
+}
+.pArticle{
+    width: 27%;
+    margin-bottom: 5%;
+    font-size: 70%;
+}
+.buttonArticle{
+    font-size: 90%;
+    padding-inline: 2.5%;
+    padding-top:1.5%;
+    padding-bottom: 1.5%;
+    font-weight: 600;
+    border-color: white;
+    border-style: solid;
+    border-radius: 3px;
+    color:rgba(31, 37, 53, 255);
+}
